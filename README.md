@@ -1,2 +1,2 @@
-# jose-yuri
+# Jose Yuri Morais
 Meu repositório pessoal
